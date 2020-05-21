@@ -19,6 +19,6 @@ There is a detailed explanation in the help section of the app. This can be acce
 
 
 
-### Support or Contact
+# Support or Contact
 
 Having trouble with Smash Frame Data? Message me on [twitter](https://twitter.com/YimlySSB) for more help. You can also reach me there with any suggestions for improvements.
